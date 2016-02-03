@@ -1,0 +1,1 @@
+Please, check this page for documentation: http://www.mediawiki.org/wiki/Extension:HeaderScriptInjector
